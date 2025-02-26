@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Martina</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Front end Developer</h3>
 <h4>Vivo en Córdoba Argentina y soy Full-Stack Developer 💻, desde hace un tiempo estoy incursionando en el mundo de la programación y descubrí una gran pasión que quiero seguir desarrollando! Me encanta aprender cosas nuevas y compartir mi conocimiento con los demás. Trabajar en equipo y nutrirme del resto lo considero clave para que todo proyecto sea bien encaminado y llevado a su fin 🔧.
 </h4>
 
