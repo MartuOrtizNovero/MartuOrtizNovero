@@ -1,15 +1,18 @@
 <h1 align="center">Hola 👋, Soy Martina</h1>
 <h3 align="center">Front end Developer</h3>
-<h4>Vivo en Córdoba Argentina y soy Full-Stack Developer 💻, desde hace un tiempo estoy incursionando en el mundo de la programación y descubrí una gran pasión que quiero seguir desarrollando! Me encanta aprender cosas nuevas y compartir mi conocimiento con los demás. Trabajar en equipo y nutrirme del resto lo considero clave para que todo proyecto sea bien encaminado y llevado a su fin 🔧.
+<h4>Vivo en Barcelona España, empecé mi camino en el desarrollo de software con proyectos personales, y hoy en día llevo dos años trabajando en la industria como desarrollador en una empresa.
+Me encanta aprender, compartir conocimientos y trabajar en equipo. Creo firmemente que la colaboración y el intercambio de ideas son claves para construir productos sólidos y escalables..
 </h4>
 
-- 🔭 El ultimo proyecto en el que estuve trabajando fue [**Proyecto Final en Henry Bootcamp**](https://henry-front.vercel.app/)
+Mis primeros proyectos fueron parte de mi formación y me ayudaron a desarrollar mis habilidades. Aunque hoy en día trabajo en entornos más avanzados, aquí puedes ver mis inicios y mi evolución en el desarrollo de software:
+
+- 🔭 Este proyecto formo parte del Bootcamp en Academia Soy Henry [**Proyecto Final en Henry Bootcamp**](https://henry-front.vercel.app/)
 
 - 👌 He terminado mi Proyecto Individual [App Videogames](https://github.com/MartuOrtizNovero/VideogamesApp-Mar)
 
 - 👨‍💻Todos mis proyectos están disponibles en [https://github.com/MartuOrtizNovero](https://github.com/MartuOrtizNovero)
 
-- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Mongo db**
+- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize**
 
 - 📫 ¡Contáctame! **martuortiznov@gmail.com**
 
@@ -22,11 +25,11 @@
 
 Lenguaje de programación: JavaScript 
 </br>
-🔸Web Technology: HTML5, CSS3, Tailwind, NodeJS
+🔸Web Technology: HTML5, CSS3, Material UI, NodeJS
 </br>
 🔸Database: PostgreSQL
 </br>
-🔸Framework/Library: ReactJS, Redux,Typescript, Express
+🔸Framework/Library: ReactJS, Redux, Express
 </br>
 🔸Version Control: Git & GitHub
 </br>
