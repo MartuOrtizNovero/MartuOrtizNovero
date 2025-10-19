@@ -1,7 +1,12 @@
 <h1 align="center">Hola 👋, Soy Martina</h1>
 <h3 align="center">Front end Developer</h3>
-<h4>Vivo en Barcelona España, empecé mi camino en el desarrollo de software con proyectos personales, y hoy en día llevo dos años trabajando en la industria como desarrollador en una empresa.
-Me encanta aprender, compartir conocimientos y trabajar en equipo. Creo firmemente que la colaboración y el intercambio de ideas son claves para construir productos sólidos y escalables..
+<h4>Vivo en Barcelona, España, y llevo tres años trabajando como Front-End Developer, creando interfaces modernas y escalables con React.js, JavaScript y Material UI.
+
+Empecé mi camino en el desarrollo de software a través de proyectos personales, y hoy disfruto formar parte de equipos donde la colaboración, la comunicación y la mejora continua son la base del trabajo diario.
+
+Actualmente estoy ampliando mi perfil hacia la gestión ágil y liderazgo de equipos.
+
+Me motiva seguir aprendiendo, compartir conocimiento y construir productos que aporten valor real a las personas. 🚀
 </h4>
 
 Mis primeros proyectos fueron parte de mi formación y me ayudaron a desarrollar mis habilidades. Aunque hoy en día trabajo en entornos más avanzados, aquí puedes ver mis inicios y mi evolución en el desarrollo de software:
